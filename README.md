@@ -1,5 +1,5 @@
 # gui-hangman-game
-Simple game implemented with a graphical user interface (GUI) using Tkinter.
+Simple game implemented with a graphical user interface (GUI) using Tkinter, created with Python.
 ## Features
 * Graphical User Interface
 * Terminal-based testing version in samples folder
