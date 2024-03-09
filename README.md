@@ -1,4 +1,4 @@
-# hangman-game
+# gui-hangman-game
 Simple game implemented with a graphical user interface (GUI) using Tkinter.
 ## Features
 * Graphical User Interface
